@@ -1,5 +1,5 @@
-### Hi there 👋
-khiêm lớn nè con
+### KHIÊM LỚN NÈ CON
+
 <!--
 **khiemtran1412/khiemtran1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://image.shutterstock.com/image-vector/dotted-spiral-vortex-royaltyfree-images-600w-2227567913.jpg
